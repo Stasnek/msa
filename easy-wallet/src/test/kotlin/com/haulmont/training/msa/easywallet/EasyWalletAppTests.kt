@@ -1,4 +1,4 @@
-package com.luxoft.training.msa.easywallet
+package com.haulmont.training.msa.easywallet
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
